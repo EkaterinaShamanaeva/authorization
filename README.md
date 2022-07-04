@@ -1,1 +1,1 @@
-# autorization
+# authorization
